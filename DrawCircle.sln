@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DrawCircle", "DrawCircle.vcproj", "{521BB8C8-30A6-4B4B-854E-6C58C3BDA889}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{521BB8C8-30A6-4B4B-854E-6C58C3BDA889}.Debug|Win32.ActiveCfg = Debug|Win32
+		{521BB8C8-30A6-4B4B-854E-6C58C3BDA889}.Debug|Win32.Build.0 = Debug|Win32
+		{521BB8C8-30A6-4B4B-854E-6C58C3BDA889}.Release|Win32.ActiveCfg = Release|Win32
+		{521BB8C8-30A6-4B4B-854E-6C58C3BDA889}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
